@@ -1,6 +1,7 @@
 # PS5 Auto Buyer
 
 **WARNING: YOU MAY GET IP BLOCKED BY BEST BUY, USE AT YOUR OWN RISK**
+
 Doesn't actually go through the entire process of buying, but it will refresh the Best Buy's PS5 page until the "Add to cart" button is enabled. Once the button is enabled, it will click on the "Add to cart" button until it is finally in your cart.
 
 ### Pre-requisites
